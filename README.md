@@ -19,13 +19,21 @@ for products with basic search method like filtering,seing the product data , ma
 for your order on line .....
 
 ## Features
--create an account
+-create an account .
+
 -see the latest and most recommended product. 
+
 -edit profile. 
+
 -search for products with basic search method like filtering.
+
 -visualise the product data. 
--manage cart . 
+
+-manage cart .
+
 -pass command. 
+
+
 -pay your order online . 
 
 ## Prerequisites  
