@@ -1,0 +1,17 @@
+.r1{
+    display: flex;
+}
+
+.cart-item-image {
+    margin: 10px;
+}
+.cart-item-title {
+    margin-top: 10px
+}
+
+.cart-item-price {
+    margin: 10px;
+}
+.card {
+    background-color: #F0F0F0;
+}

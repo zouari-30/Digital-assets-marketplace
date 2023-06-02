@@ -1,0 +1,66 @@
+.NavbarItems{
+    background-color:transparent; 
+    height : 90px;
+    display : flex;
+    justify-content :center;
+    align-items : center ;
+    font-size: 1.2rem;
+    /* opacity: .3; */
+}
+.navbar-logo{
+    color: White;
+    justify-self: start; 
+    margin-left: 8rem;
+    cursor : pointer;
+}
+.fa-react {
+    margin-left : 0.5rem;
+    font-size: 1.6rem;
+}
+
+.nav-menu {
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap : 12px ;
+    list-style: none;
+    text-align: center;
+    width : 70vw ;
+    justify-content:left;
+    margin-left: 6rem;
+}
+
+.Nav-links {
+    color: white;
+    text-decoration: none;
+    padding : 0.5rem 1rem;
+    font-style: 'Poppins';
+    font-size :14px;
+    font-weight : 400;
+}
+
+.bt1{
+    background-color: black;
+    text-align: center;
+    font-size: 14px;
+    font-weight : 600;
+    font-family: 'Poppins';
+    color: white;
+    margin-right: 1.5rem; 
+    display: inline-block;
+    padding: 1px 40px;
+    border-radius: 4px;
+    cursor : pointer;
+}
+.bt2{
+    background-color:transparent;
+    text-align : center;
+    font-size: 14px;
+    font-weight : 600;
+    font-family: 'Poppins';
+    color: black;
+    margin-right: 6rem;
+    display: inline-block;
+    padding: 1px 40px;
+    cursor: pointer;
+    border-radius: 4px;
+}

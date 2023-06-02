@@ -1,0 +1,102 @@
+.nav-customer {
+  height: 100px;
+}
+.form2{
+    /* Uniquement centrer le formulaire sur la page */
+    margin: 0 auto;
+    width: 500px;
+    height: 640px;
+    /* Encadré pour voir les limites du formulaire */
+    padding: 2em;
+    border: 1px solid #CCC;
+    border-radius: 0.5em;
+    background-color : white;
+    text-align: center;
+}
+
+.body2{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(
+      to left,
+      #FDCB0D 0%,
+      #FDCB0D 50%,
+      #000000  50%,
+      #000000  100% )
+}
+
+.style11{
+    font-size : 30px;
+    font-family: 'Nueva Std';
+    font-weight: bold;
+}
+
+  .new {
+      text-align: left;
+  }
+
+
+.divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+} 
+  
+  /* To show the lines on right 
+  and left sides of the text */
+.divider::after,.divider::before {
+    content: "";
+    border: 1px solid black;
+    flex: 1;
+  }
+  
+  /* Space on left and right sides of text */
+.divider:not(:empty)::before {
+    margin-right: 0.25em;
+  }
+  
+.divider:not(:empty)::after {
+    margin-left: 0.25em;
+  } 
+
+.button {
+  background-color: black;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight :400;
+  color: white; 
+  display: inline-block;
+  padding: 6px 110px;
+  border-radius: 3px;
+  cursor : pointer;
+  width :100%
+}
+
+.st1{
+  font-size : 13px;
+  font-family: 'Poppins';
+  font-weight: lighter;
+}
+
+.st2{
+  font-size : 13px;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
+/* input[type=email] {
+  padding:5px; 
+  border:2px solid #ccc; 
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  height: 20px ;
+  width: 321px ;
+}
+input[type=password] {
+  padding:5px; 
+  border:2px solid #ccc; 
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  height: 20px ;
+  width: 321px ;
+} */

@@ -1,0 +1,59 @@
+.Stripe{
+    background-color: #E8E8E8;
+    width: 455px;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+    margin-left: 300px;
+    /* margin-right: 20%; */
+}
+.des1 {
+    background-color: #E8E8E8 ;
+    margin-left: 250px;
+    width: 300px;
+    height: 200px;
+}
+.sdk {
+    display: inline-block;
+}
+input[type=string] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 30px ;
+    width: 200px ;
+  }
+  input[type=number] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    height: 20px ;
+    width: 150px ;
+  }
+  .input:active, input:focus { 
+    font-size: 13px;
+    border: 2px solid #FF8C00;
+    outline: none; 
+    background-color: #ffffff;
+  }
+
+  .order {
+    background-color: #E8E8E8;
+    width: 200px;
+    height: auto;
+    margin: auto;
+    margin-right: 350px;
+  }
+  .rowC{
+    display:flex; 
+    flex-direction:row;
+}
+.paymethod{
+    background-color: #E8E8E8;
+    width: 200px;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 10px;
+}

@@ -1,0 +1,77 @@
+
+.main{
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color : #FDCB0D; 
+}
+.search{
+    background-color : white ;
+    
+}
+.st {
+    font-family :"Nueva Std";
+    font-weight : bold ; 
+    font-size  : 50px ;
+}
+.second{
+
+}
+.up {
+    display : flex ;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    max-width: 100%;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+}
+.il {
+    background : white;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 0 4px;
+    white-space: nowrap;
+}
+.b{
+    background-color:transparent;
+    border : none ;
+}
+.d1{
+    display : flex;
+    justify-content: center;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+}
+
+.personalize1{
+    background-color:transparent;
+    border-color: grey;
+}
+
+.personalize2{
+    background-color:transparent;
+    border-color: gray;
+}
+.personalize3{
+    background-color:transparent;
+    border-color: grey;
+}
+.personalize4{
+    background-color:transparent;
+    border-color: grey;
+}
+
+.products{
+    width: 30% ;
+    margin : 40px;
+}

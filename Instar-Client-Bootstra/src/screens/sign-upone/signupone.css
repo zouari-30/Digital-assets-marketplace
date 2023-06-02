@@ -1,0 +1,109 @@
+.body1{
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(
+    to left,
+    #FDCB0D 0%,
+    #FDCB0D 50%,
+    #000000  50%,
+    #000000  100%
+  );
+}
+.underbody{
+  text-align: left;
+}
+
+.form1{
+    /* Uniquement centrer le formulaire sur la page */
+    margin: 0 auto;
+    width: 340px;
+    height: 380px;
+    /* Encadré pour voir les limites du formulaire */
+    padding: 2em;
+    border: 1px solid #CCC;
+    border-radius: 0.5em;
+    background-color : white;
+    text-align :center;
+}
+.style1{
+  font-size : 30px;
+  font-family: 'Nueva Std';
+  font-weight: bold;
+}
+
+.style2 {
+  font-size : 13px;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
+
+.style3{
+  font-size : 13px;
+  font-family: 'Poppins';
+  font-weight: lighter;
+}
+
+li{
+  font-size : 13px;
+  font-family: 'Poppins';
+  font-weight: lighter;
+}
+
+.btt1{
+  background-color: White;
+  /* text-align: center; */
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight :600;
+  display : inline-flex;
+  color: black; 
+  padding: 4px ;
+  border-radius: 3px;
+  cursor : pointer;
+  border-color: #5E79FF;
+  height : 100%;
+  width : 100%;
+}
+.btt2{
+  background-color: White;
+  display : inline-flex;
+  padding: 4px ; 
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight :600;
+  color: black; 
+  /* display: inline-block; */
+  border-radius: 3px;
+  cursor : pointer;
+  border-color: #107A18;
+  height : 100%;
+  width : 100%;
+}
+.btt3{
+  background-color: black;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight :400;
+  color: white; 
+  display: inline-block;
+  padding: 4px ;
+  border-radius: 3px;
+  cursor : pointer;
+  height : 100%;
+  width : 100%;
+}
+
+.button-icons{
+  display: inline-flex;
+  align-items :center ;
+  padding: 0 40px;
+
+}
+.button-icons1{
+  display: inline-flex;
+  padding: 0 32px;
+
+}
+

@@ -1,0 +1,49 @@
+{
+    "description" : "A list of design" ,
+    "design" : [
+        {
+            "id" : "1",
+            "category" : "Animation"
+        },
+        {
+            "id" : "2",
+            "category" : "Illustration"
+        },
+        {
+            "id" : "3",
+            "category" : "Typography"
+        },
+        {
+            "id" : "4",
+            "category" : "Web-design"
+        },
+        {
+            "id" : "5",
+            "category" : "Branding"
+        },
+        {
+            "id" : "6",
+            "category" : "Photography"
+        },
+        {
+            "id" : "7",
+            "category" : "Template"
+        },
+        {
+            "id" : "8",
+            "category" : "Poster"
+        },
+        {
+            "id" : "9",
+            "category" : "Social media"
+        },
+        {
+            "id" : "10",
+            "category" : "Logo"
+        },
+        {
+            "id" : "11",
+            "category" : "All"
+        }
+    ]
+}
