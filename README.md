@@ -46,17 +46,11 @@ Before running the project, ensure that you have the following prerequisites ins
 ## Installation 
 To install and set up the project, follow these steps: 
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/zouari-30/Digital-assets-marketplace.git
 
-git clone https://github.com/zouari-30/Digital-assets-marketplace.git
+2.Navigate to the project directory: cd Instar 
 
-2.Navigate to the project directory:
-
-cd Instar 
-
-3. Install the dependencies:
-
-npm install 
+3. Install the dependencies:npm install 
 
 ## Usage  
 To run the project locally, use the following steps:
