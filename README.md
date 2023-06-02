@@ -57,8 +57,10 @@ To run the project locally, use the following steps:
 
 1. Start the Node.js server:
 npm run server
+
 2.In a separate terminal, start the React development server:
 npm start 
+
 3. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access the application.
 
 ## Contributing
