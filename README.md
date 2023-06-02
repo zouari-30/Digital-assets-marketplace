@@ -18,7 +18,7 @@ It provides an intuitive user interfaces with several functionalities like creat
 for products with basic search method like filtering,seing the product data , managing cart ,passing command,paying 
 for your order on line .....
 
-##Features
+## Features
 -create an account
 -see the latest and most recommended product. 
 -edit profile. 
@@ -28,14 +28,14 @@ for your order on line .....
 -pass command. 
 -pay your order online . 
 
-##Prerequisites  
+## Prerequisites  
 
 Before running the project, ensure that you have the following prerequisites installed:
 
 - Node.js (v12 or above)
 - npm (v6 or above)
 
-##Installation 
+## Installation 
 To install and set up the project, follow these steps: 
 
 1. Clone the repository:
@@ -47,7 +47,7 @@ cd Instar
 3. Install the dependencies:
 npm install 
 
-##Usage  
+## Usage  
 To run the project locally, use the following steps:
 
 1. Start the Node.js server:
